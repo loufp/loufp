@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Привет%2C+я+loufp!;Разработчик+CV+%26+ML;Люблю+создавать+крутые+проекты)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Привет%2C+я+loufp!;Разработчик+CV+%26+ML)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ваш_github&theme=onedark)
 <div align="center">
@@ -8,7 +8,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/ваш_телеграм)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ваш_linkedin)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/ваш_github)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/loufp)
 
 ---
 
