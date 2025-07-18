@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Привет%2C+я+loufp!;Разработчик+CV+%26+ML)
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=loufp&theme=react-dark&hide_border=true&area=true)](https://github.com/ваш_github)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=loufp&theme=react-dark&hide_border=true&area=true)](https://github.com/loufp)
 
 
 <div align="center">
