@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Привет%2C+я+loufp!;Разработчик+CV+%26+ML)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=loufp&theme=onedark)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=loufp&theme=react-dark)
+
 
 <div align="center">
   
