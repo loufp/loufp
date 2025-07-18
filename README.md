@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Привет%2C+я+loufp!;Разработчик+CV+%26+ML)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loufp&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/loufp)
+
 
 
 <div align="center">
@@ -38,6 +38,6 @@
 
  3.Оптимизацией backend API
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Backend+Architect;Machine+Learning+Expert;Open+Source+Contributor)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ваш_leetcode?theme=dark&font=baloo)](https://leetcode.com/ваш_leetcode)
 </details>
 </div>
