@@ -38,6 +38,6 @@
 
  3.Оптимизацией backend API
 
-https://wakatime.com/badge/user/%D0%B2%D0%B0%D1%88_wakatime_id.svg
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Backend+Architect;Machine+Learning+Expert;Open+Source+Contributor)
 </details>
 </div>
