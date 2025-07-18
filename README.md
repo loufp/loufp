@@ -38,10 +38,6 @@
 
  3.Оптимизацией backend API
 
- pie title Навыки по направлениям
-    "Backend Development" : 45
-    "Machine Learning" : 35
-    "Data Engineering" : 10
-    "DevOps" : 10
+https://wakatime.com/badge/user/%D0%B2%D0%B0%D1%88_wakatime_id.svg
 </details>
 </div>
