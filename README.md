@@ -37,5 +37,11 @@
  2.ML-моделями для обработки временных рядов
 
  3.Оптимизацией backend API
+
+ pie title Навыки по направлениям
+    "Backend Development" : 45
+    "Machine Learning" : 35
+    "Data Engineering" : 10
+    "DevOps" : 10
 </details>
 </div>
