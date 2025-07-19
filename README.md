@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Привет%2C+я+loufp!;Разработчик+CV+%26+ML)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Привет%2C+я+loufp!)
 
 
 
@@ -6,7 +6,7 @@
 <div align="center">
   
 ### 👋 Привет, я loufp!
-#### 💻 Backend разработчик | 🧠 Machine Learning инженер | 🚀 Люблю сложные системы
+#### 💻 Backend разработчик | 🧠 Machine Learning инженер 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/ваш_телеграм)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ваш_linkedin)
