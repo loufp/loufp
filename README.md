@@ -6,7 +6,7 @@
 <div align="center">
   
 ### 👋 Привет, я loufp!
-#### 💻 Backend разработчик | 🧠 Machine Learning инженер 
+#### 💻 Backend разработчик | 🧠 Machine Learning инженер
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/ваш_телеграм)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ваш_linkedin)
